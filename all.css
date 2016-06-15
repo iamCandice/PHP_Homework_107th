@@ -1,0 +1,74 @@
+
+.container{			/*報名頁*/
+	margin: 0px auto;
+	position: absoluate;
+	text-align: center;
+	background: url("img/mountain2.jpg") center top no-repeat;
+	height:630px;
+	font-size: 17px;
+	color:	#F0F8FF;
+	font-weight: 600;
+	padding-top:150px; 
+	line-height: 30px;　　　          　/* 設定文字行距 */
+    letter-spacing: 7px;　            　/* 設定文字間距 */
+  
+}
+.container_confirm{		/*確認頁*/
+	margin: 0px auto;
+	position: absoluate;
+	text-align: center;
+	background: url("img/grass.jpg") center top no-repeat;
+	height:630px;
+	font-size: 17px;
+	color:#666666;
+	font-weight: 600;
+	padding-top:150px; 
+	line-height: 30px;　　　          　/* 設定文字行距 */
+    letter-spacing: 7px;　            　/* 設定文字間距 */
+  
+}
+.container_login{			/*登入頁*/
+	margin: 0px auto;
+	position: absoluate;
+	text-align: center;
+	background: url("img/city2.jpg") center top no-repeat;
+	height:630px;
+	font-size: 17px;
+	color:#666666;
+	font-weight: 600;
+	padding-top:280px; 
+	line-height: 30px;　　　          　/* 設定文字行距 */
+    letter-spacing: 7px;　            　/* 設定文字間距 */
+}
+.container_admin{			/*管理頁*/
+	margin: 0px auto;
+	position: relative;
+	text-align: center;
+	background: url("img/tree.jpg") center top no-repeat;
+	height:100%;
+	font-size: 17px;
+	color:#666666;
+	font-weight: 600;
+	padding-top:20px; 
+	line-height: 30px;　　　          　/* 設定文字行距 */
+    letter-spacing: 7px;　            　/* 設定文字間距 */
+}
+.container_admin table{
+	margin: 0px auto;
+	position: absoluate;
+	text-align:left;
+	
+}
+.container_admin table td{
+	width:200px;
+	height:50px;
+}
+
+.table{
+	margin: 0px auto;
+	position: absoluate;
+	text-align:left;
+}
+.login{
+	text-decoration: none;
+}
